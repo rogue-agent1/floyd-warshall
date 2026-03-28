@@ -1,5 +1,11 @@
 # floyd-warshall
-Floyd-Warshall all-pairs shortest paths. Zero dependencies.
+
+All-pairs shortest paths.""".
+
+Zero dependencies. Python 3.8+.
+
+## Usage
+
 ```bash
-python3 floyd_warshall.py
+python3 floyd_warshall.py --help
 ```
