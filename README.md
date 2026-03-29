@@ -1,13 +1,3 @@
 # floyd_warshall
-
-Floyd-Warshall all-pairs shortest paths
-
-## Usage
-
-```bash
-python3 floyd_warshall.py --help
-```
-
-## License
-
-MIT
+Floyd-Warshall — all-pairs shortest paths, path reconstruction.
+Single-file Python, zero dependencies.
